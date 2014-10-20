@@ -12,6 +12,7 @@
 "barette" agi=2
 "beret" agi=4
 "cowl" agi=42
+"snow hat" agi=90
 "jet hat" agi=180
 
 # int
@@ -26,11 +27,13 @@
 "fishbowl" dex=33
 "rose" dex=45
 "magnifying glasses" dex=99
+"Jolly Hat" dex=200
 
 # wis
 "coif" wis=3
 "flowerpot" wis=13
 "mitre" wis=40
+"decent hat" wis=70
 "earbuds" wis=101
 "thinking cap" wis=250
 
@@ -64,12 +67,14 @@
 "second brain" int=250 con=50
 "bloody bandages" int=300 con=-50
 "Dunce Cap" con=400 int=-50
+"Hate Hat" con=600 int=20
 "Glamorous Wizard Hat" int=600 con=50
 
 # con / dex
 "coronet" dex=5 con=5
 "pile of helms" dex=25 con=25 luck=5
 "cat ears" con=80 dex=40
+"dog ears" con=40 dex=80
 "umbrella hat" con=100 dex=76
 "Fusion Earring" dex=230 con=200 luck=10
 "Superscouter 9001" dex=400 con=400 luck=15
@@ -77,6 +82,7 @@
 # wis / dex
 "halo" wis=5 dex=10 luck=3
 "saucer" wis=35 dex=30
+"Aware Alien Cap" wis=75 dex=75
 
 # agi / dex
 "pile of hats" dex=25 agi=25
@@ -85,6 +91,7 @@
 # str / dex
 "dog ears" str=100 dex=30
 "skull" str=155 dex=10
+
 
 # str / int
 "Jungle Rose" int=100 str=200
@@ -106,6 +113,7 @@
 
 # luck
 "expensive party hat" con=50 luck=10
+"Pointy Hat" con=100 luck=70 wis=-100
 
 # mega-hybrid
 "Antiverse Circlet" str=100 int=100 dex=100 con=500 agi=100 wis=100 deadeye=1
