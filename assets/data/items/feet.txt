@@ -6,6 +6,8 @@
 "sandals" dex=1
 "high-heels" dex=5 luck=-1
 "flip flops" dex=7
+"Seven League Boots" dex=100
+
 
 # agi / dex
 "socks and sandals" agi=1 dex=1 wis=-20
@@ -53,6 +55,7 @@
 "Silver Surfboard" agi=533 dex=200
 "Advanced Knee Replacement" dex=650 agi=200
 "Continuity Shoes" dex=500 agi=500 glowing=1
+"20k League" dex=200 glowing=2
 
 # idle-class
 "Fastidious Feet of the Idling Gods" agi=2500 dex=2500
