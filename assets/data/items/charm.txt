@@ -67,6 +67,7 @@
 # luck/wis
 "bauble"  luck=1 wis=7
 "bead"  luck=5 wis=50
+"128-bit encryption" luck=-10 wis=60
 
 # str/wis
 "ear plug" str=-1 dex=2
