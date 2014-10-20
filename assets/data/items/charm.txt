@@ -1,6 +1,8 @@
 # con
+"hurt heart" con=25
 "heart piece" con=50
 "heart container" con=150
+"I Heart Idle-Land Shirt" con=250
 
 
 # int
@@ -18,9 +20,11 @@
 "Standard Monetary Unit" luck=45
 
 # wis
+"book of the past" wis=5
 "plume" wis=10
 "magnifying glass" wis=60
 "Jaffa Cake" wis=420
+"Book From The Future" wis=500
 "Crystal Ball" wis=640
 
 # int / wis
@@ -55,26 +59,36 @@
 "Mask de Smith" int=377 wis=400 
 "Magnitude Pocketwatch" int=500 wis=500 sentimentalityPercent=20
 
+# agi/dex
+"chicken wing" agi =10 dex=10
+"icarus's wing" agi=25 dex=25
+"Dragon Wings" agi=100 dex=100
+
 # luck/wis
 "bauble"  luck=1 wis=7
 "bead"  luck=5 wis=50
 
 # str/wis
+"ear plug" str=-1 dex=2
 "10 pound earring" str=40 wis=-5
 
+
 # agi/int/luck
-"teleporter" agi=10 int=20 luck=3  dodge=1 
+"teleporter" agi=10 int=20 luck=3  dodge=1
+"Scotty's Beam" agi=30 int=50 luck=15
 
 #agi/int/wis
+"Rat Bit" = wis= 100 int=50 agi=50
 "Whole Rabbit" wis=200 int=100 agi=100
-
 
 # int/luck/wis
 "luckstone" int=16 luck=10 wis=16 
+"pipboy" int=25 luck=15 wis=20
 "juju" int=30 luck=-5 wis=-7
 "sextant" int=69 wis=18 luck=7
 "die-cast robot princess bubblegum" int=100 luck=8  wis=43 power=1 
 "Rabbit's Foot"  int=150 luck=30 wis=200 
+"Pipboy 2000" int=150 luck=50  wis=150
 
 
 
@@ -82,6 +96,7 @@
 "prism" str=10 con=10 int=10 wis=10 dex=10 luck=1
 
 # idle-class
+"Pimp Boy Over Five Thousand !" int=2500 wis=2501
 "Cosmic Charm of the Idling Gods" int=2500 dex=2500
 
 # godly-class
